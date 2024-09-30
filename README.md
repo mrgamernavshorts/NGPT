@@ -2,7 +2,7 @@ NGPT - Navinderjeet's Genereative Pre Trained model!
 
 navinderjeet is my name.
 
-this is a ai i made.it also has pretty cool features.
+this is an AI i made.it also has pretty cool features.
 
 type `/help`it will give you a list of it's features.
 
