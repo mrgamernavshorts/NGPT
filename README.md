@@ -14,6 +14,6 @@ there are total 3 of them
     (delete `data/bigbrain.txt` to disable).
 ```
 >[!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
+> this gpt is not very effective and is based in wikipedia.it will only answer you if there is a wiki page related to your search.
 Update:official release!about this update:
 initial release of the program
