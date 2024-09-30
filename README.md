@@ -13,7 +13,7 @@ there are total 3 of them
 /big brain mode - gives more detailed answers but takes A LOT O TIME TO LOAD.
     (delete `data/bigbrain.txt` to disable).
 ```
->[!WARNING]  
-> this gpt is not very effective and is based in wikipedia.it will only answer you if there is a wiki page related to your search.
+> [!WARNING]  
+> This GPT is not very effective and is based in Wikipedia.It will only answer you if There is a Wiki page Related to your Search.
 Update:official release!about this update:
 initial release of the program
