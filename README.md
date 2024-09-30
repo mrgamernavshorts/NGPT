@@ -14,6 +14,6 @@ there are total 3 of them
     (delete `data/bigbrain.txt` to disable).
 ```
 > [!WARNING]  
-> This GPT is not very effective and is based in Wikipedia.It will only answer you if There is a Wiki page Related to your Search.
+> This GPT is not very effective and is based on Wikipedia.It will only answer you if There is a Wiki page Related to your Search.
 Update:official release!about this update:
 initial release of the program
