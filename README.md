@@ -13,7 +13,7 @@ there are total 3 of them
 /big brain mode - gives more detailed answers but takes A LOT O TIME TO LOAD.
     (delete `data/bigbrain.txt` to disable).
 ```
-> [!WARNING]  
+>[!WARNING]  
 > Critical content demanding immediate user attention due to potential risks.
 Update:official release!about this update:
 initial release of the program
