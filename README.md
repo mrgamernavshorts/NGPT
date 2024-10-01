@@ -13,7 +13,6 @@ these are the features:
 /big brain mode - gives more detailed answers but takes a bit more time to load.
 type disable in front of any of these features to disable them.ex-/recall disable
 /search-search about a topic related page
-
 ```
 > [!WARNING]  
 > This GPT is not very effective and is based on Wikipedia.It will only answer you if There is a Wiki page Related to your Search.
@@ -26,7 +25,6 @@ added a `disable`feature.type this in front of a feature to disable it.ex-
 ```
 /big brain mode disable
 /recall disable
-
 ```
 
 Update:official release!about this update:
