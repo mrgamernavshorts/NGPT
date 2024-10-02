@@ -8,6 +8,8 @@ type `/help`it will give you a list of it's features.
 
 these are the features:
 ```
+/login-for logging in.
+/signup-for sign up.
 /recall - to recall last chat.
 /crazy - turns on crazy mode(do not do it!)
 /big brain mode - gives more detailed answers but takes a bit more time to load.
