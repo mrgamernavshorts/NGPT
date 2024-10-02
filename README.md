@@ -17,6 +17,18 @@ type disable in front of any of these features to disable them.ex-/recall disabl
 > [!WARNING]  
 > This GPT is not very effective and is based on Wikipedia.It will only answer you if There is a Wiki page Related to your Search.
 
+Update:v1.2 released!about this update:
+
+now you can signup or login!all the info is saved on a server,so you can do it anytime!
+
+all the recalls and settings are now saved on a server.your profile in the server will now have all the info of the profile!
+
+I tried my best to make it very very secure,and i did it!
+
+you will need internet to login in signup!
+
+do not worry,all of your info is kept private here!only i have the access to the server.
+
 Update:v1.1 released!about this update:
 
 added a `/search`feature.
