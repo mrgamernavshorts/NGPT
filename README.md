@@ -19,7 +19,9 @@ type disable in front of any of these features to disable them.ex-/recall disabl
 > [!WARNING]  
 > This GPT is not very effective and is based on Wikipedia.It will only answer you if There is a Wiki page Related to your Search.
 
-Update:v1.2 released!about this update:
+---------------------------------------------------------------------------------------------------------------------------------
+
+**Update:v1.2 released!about this update:**
 
 now you can signup or login!all the info is saved on a server,so you can do it anytime!
 
@@ -31,7 +33,9 @@ you will need internet to login in signup!
 
 do not worry,all of your info is kept private here!only i have the access to the server.
 
-Update:v1.1 released!about this update:
+---------------------------------------------------------------------------------------------------------------
+
+**Update:v1.1 released!about this update:**
 
 added a `/search`feature.
 
@@ -40,7 +44,7 @@ added a `disable`feature.type this in front of a feature to disable it.ex-
 /big brain mode disable
 /recall disable
 ```
-
-*Update:official release!about this update:*
+---------------------------------------------------------------------------------------------------------------
+**Update:official release!about this update:**
 
 initial release of the program
