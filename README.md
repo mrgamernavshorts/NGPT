@@ -29,9 +29,9 @@ all the recalls and settings are now saved on a server.your profile in the serve
 
 I tried my best to make it very very secure,and i did it!
 
-you will need internet to login in signup!
+you will need internet to login or signup!
 
-do not worry,all of your info is kept private here!only i have the access to the server.
+do not worry,all of your info is kept private here!only I have the access to the server.
 
 ---------------------------------------------------------------------------------------------------------------
 
