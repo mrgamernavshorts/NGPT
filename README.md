@@ -41,6 +41,6 @@ added a `disable`feature.type this in front of a feature to disable it.ex-
 /recall disable
 ```
 
-Update:official release!about this update:
+*Update:official release!about this update:*
 
 initial release of the program
